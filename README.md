@@ -1,5 +1,5 @@
 # <u>Word-Prediction-Ngram</u>
-<h3>Next Word Prediction using n-gram Probabilistic Model.
+### Next Word Prediction using n-gram Probabilistic Model.
 Various jupyter notebooks are there using different Language Models for next word Prediction.
 <br>
 
