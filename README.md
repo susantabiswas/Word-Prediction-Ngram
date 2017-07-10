@@ -1,4 +1,4 @@
-# Word-Prediction-Ngram
+# <u>Word-Prediction-Ngram</u>
 <h3>Next Word Prediction using n-gram Probabilistic Model.
 Various jupyter notebooks are there using different Language Models for next word Prediction.
 <br>
@@ -17,8 +17,8 @@ in these different Language Models.
       
 ### How the code works:
 1. Cleaning of training corpus ( Removing Punctuations etc)
-2. Creation of Language Model:
-    i) Formation of ngrams( Unigram, Bigram, Trigram, Quadgram)
+2. Creation of Language Model:<br>
+    i) Formation of ngrams (Unigram, Bigram, Trigram, Quadgram)<br>
     ii) Probability Dictionary Creation with provision of various Smoothing Mechanism
 
 
