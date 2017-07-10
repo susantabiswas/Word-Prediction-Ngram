@@ -3,8 +3,10 @@
 Various jupyter notebooks are there using different Language Models for next word Prediction.
 <br>
 
-<strong>Input :</strong> The users Enters a text sentence<br> 
-<strong>Output :</strong> Predicts a word which can follow the input sentence
+### Input :
+The users Enters a text sentence<br> 
+### Output :
+Predicts a word which can follow the input sentence
 <br>
 
 Various Smoothing Techniques have been used in different Language Models along with combination of Interpolation and Backoff
