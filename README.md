@@ -19,7 +19,7 @@ Predicts a word which can follow the input sentence
 ### How the code works:
 1. Cleaning of training corpus ( Removing Punctuations etc)
 2. Creation of Language Model:<br>
-    i) Formation of ngrams (Unigram, Bigram, Trigram, Quadgram)<br>
+    i) Formation of n-grams (Unigram, Bigram, Trigram, Quadgram)<br>
     ii) Probability Dictionary Creation with provision of various Smoothing Mechanism
 
 
