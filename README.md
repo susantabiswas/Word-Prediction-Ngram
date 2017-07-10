@@ -9,8 +9,8 @@ The users Enters a text sentence<br>
 Predicts a word which can follow the input sentence
 <br>
 
-Various Smoothing Techniques have been used in different Language Models along with combination of Interpolation and Backoff
-in these different Language Models.
+### Various Smoothing Techniques have been used in different Language Models along with combination of Interpolation and Backoff
+### in these different Language Models.
 ### Smoothing Techniques Used:
       1. Add 1 
       2. Good Turing 
