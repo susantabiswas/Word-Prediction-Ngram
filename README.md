@@ -1,3 +1,4 @@
+[![HitCount](http://hits.dwyl.io/susantabiswas/Word-Prediction-Ngram.svg)](http://hits.dwyl.io/susantabiswas/Word-Prediction-Ngram)
 # <u>Word-Prediction-Ngram</u>
 ### Next Word Prediction using n-gram Probabilistic Model.
 Various jupyter notebooks are there using different Language Models for next word Prediction.
